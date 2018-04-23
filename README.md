@@ -21,3 +21,6 @@ Here are screenshots of the app, and there is also an .apk file for installing m
 </div>
 
 I also put chesets into the game, if you press and hold the buttons there, and you get more options.
+
+
+## Google Play:  https://play.google.com/store/apps/details?id=hdriel.riddle_dwarves
